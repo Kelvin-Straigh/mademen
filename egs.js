@@ -50,8 +50,21 @@ console.log(getHands())
  */
 
  
-let phoneNumber = ["(012) 345-6789"]
+/* let phoneNumber = ["(012) 345-6789"]
 
 for (let i=0; i<phoneNumber.length; i++)
 
 console.log(phoneNumber[i])
+ */
+
+let him = 43
+let phone = 56
+let message = ""
+
+
+if (him===45 || phone===56){
+    message = "nice"
+    console.log(message)
+}
+
+find peace in your heart and forgive all these bitches for tresspassing  and acting our wild in the last one 
