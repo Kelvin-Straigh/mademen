@@ -67,4 +67,4 @@ if (him===45 || phone===56){
     console.log(message)
 }
 
- I am kelvin straigh
+ I am kelvin straighs
